@@ -1,0 +1,4 @@
+interface:
+  display_name: "技能修图"
+  short_description: "按场景匹配参数并生成重建提示词"
+  default_prompt: "使用 $portrait-identity-85mm，也就是“技能修图”，先识别这张照片的题材与光线，再匹配合适镜头和参数，并生成中文重建提示词；如果是人像，再额外严格保留身份、表情、脸型与背景。"
